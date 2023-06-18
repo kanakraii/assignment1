@@ -19,4 +19,4 @@ print("is ", n1 is n2)
 print("*Membership operator*")
 a='kanak'
 print('k' in a)
-print('n' is not a)
+print('n' not in a)
