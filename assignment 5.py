@@ -17,6 +17,6 @@ print("\nThe list in descending order:",l1)
 #convert to tuple
 t1=tuple(l1)
 print("\nTuple:",t1)
-#clear list
-l1.clear()
+#delete list
+del(l1)
 
